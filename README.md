@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuman-bhandari&label=Profile%20views&color=0e75b6&style=flat" alt="anshuman-bhandari" /> </p>
 
-- 🌱 I’m currently learning **Nodejs , DBMS**
+- 🌱 I’m currently learning **Cloud, Data Science and AI**
 
 - 📫 How to reach me **anshuman.23.2004@gmail.com**
 
